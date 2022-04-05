@@ -1,0 +1,8 @@
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\bin\Debug\BtStruct.exe.config
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\bin\Debug\BtStruct.exe
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\bin\Debug\BtStruct.pdb
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\obj\Debug\BtStruct.csproj.AssemblyReference.cache
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\obj\Debug\BtStruct.csproj.SuggestedBindingRedirects.cache
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\obj\Debug\BtStruct.csproj.CoreCompileInputs.cache
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\obj\Debug\BtStruct.exe
+F:\Học tập\Kỳ 221\C#\Struct\BtStruct\BtStruct\obj\Debug\BtStruct.pdb
